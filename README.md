@@ -1,3 +1,11 @@
+
+# curso
+TALLER DE PROGRAMACION
+# TEMA 
+GESTION DE RESTAURANTES
+# INTEGRANTES
+Ericson junior vargas perez
+IBAÑEZ CAMPOS JOSUE JESUS 
 # Alcance del Proyecto
 El alcance de este proyecto incluye el desarrollo de un sistema integral para la gestión de un restaurante, que abarca desde la autenticación de usuarios hasta la gestión de mesas, reservas, pedidos y pagos. El sistema está diseñado para ser utilizado tanto por clientes como por empleados, con roles y permisos específicos para cada tipo de usuario.
 
