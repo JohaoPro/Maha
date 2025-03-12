@@ -17,7 +17,7 @@ El alcance de este proyecto incluye el desarrollo de un sistema integral para la
 
 ### 1. Autenticación con Roles
 **Clientes y Empleados**  
-- **Laravel Breeze o Jetstream**: Se utilizará para la autenticación básica.  
+- **Laravel**: Se utilizará para la autenticación básica.  
 - **OAuth**: Implementación de autenticación a través de Facebook y Google para clientes.  
 - **Registro Manual de Empleados**: Los empleados serán registrados manualmente con roles específicos (admin, cocinero, mesero, cajero).
 
@@ -64,6 +64,7 @@ El alcance de este proyecto incluye el desarrollo de un sistema integral para la
 - **Eficiencia**: Mejora en la gestión de mesas y pedidos.  
 - **Experiencia del Usuario**: Facilidad de uso para clientes y empleados.  
 - **Seguridad**: Autenticación segura y gestión de roles.
+- **Opcional**: agregacion de docker .
 
 ---
 
